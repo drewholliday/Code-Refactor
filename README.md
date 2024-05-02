@@ -10,7 +10,7 @@ Screenshots
 [Screenshot 2](screenshots/image-1.png)
 
 Deployment
-The application is deployed and accessible via the following live URL: [Insert Live URL here] ()
+The application is deployed and accessible via the following live URL: [Deployed] (https://drewholliday.github.io/Code-Refactor/)
 
 GitHub Repository
-The code for this project is available in the GitHub repository, which can be accessed via the following URL: [Github Repo]()
+The code for this project is available in the GitHub repository, which can be accessed via the following URL: [Github Repo](https://github.com/drewholliday/Code-Refactor)
